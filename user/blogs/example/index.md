@@ -1,27 +1,14 @@
 ---
 title: Example Post
-description: Example post written using Markdown Syntax with QWER - Simply Awesome Blog Starter. Built using SvelteKit and Love.
+description: Example post written using Markdown Syntax 
 summary: 📝 Showcase basic syntax of Markdown and HTML
-published: '2022-08-09T00:00:00.000+08:00'
-updated: '2023-05-01T20:00:00.000+08:00'
-cover: ./cover.jpg
-coverCaption: Photo by <a href="https://unsplash.com/@etiennegirardet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Etienne Girardet</a> on <a href="https://unsplash.com/s/photos/motivation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+published: '2024-05-07T10:46:00.000+08:00'
+updated: '2024-05-07T10:46:00.000+08:00'
+cover: 
+coverCaption: 
 tags:
   - [Markdown]
 ---
-
-<script lang="ts">
-  import Youtube from '$lib/components/youtube.svelte'
-  import Custom from '$custom/custom.svelte'
-  const const_variable = 999;
-
-  import Folder from '$lib/components/folder.svelte'
-
-  let configFolder = [
-    { name: 'QWER.config.js', icon: 'i-vscode-icons-file-type-typescript-official' },
-    { name: 'site.ts', icon: 'i-bxs-file-js' }
-  ]
-</script>
 
 ## Paragraphs
 

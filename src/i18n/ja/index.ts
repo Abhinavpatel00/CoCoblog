@@ -8,7 +8,7 @@ const ja: Translation = {
   LoadingPost: '記事を読み込み中...',
   NoPostFound: '🙇‍♀️記事が見つかりません🙇‍♂️',
   LoadingGiscus: 'コメント欄を読み込み中...',
-  QWER: '🚀 QWER [α] - Built with SvelteKit and ❤',
+  COCO: '🚀 COCO [α] - Built with ❤',
   FirstPublishedAt: '🧰公開日時: ',
   LastUpdatedAt: '🔨最終更新日時: ',
   Updated: '更新: ',

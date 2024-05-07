@@ -31,7 +31,7 @@ coverStyle: 'IN'
 series_tag:
 series_title:
 tag:
-  - [svelte-QWER]
+  - [svelte-COCO]
 ---"
 
 # Ensure base path exists

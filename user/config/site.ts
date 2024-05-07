@@ -12,35 +12,35 @@ import Avatar_512_PNG from '$assets/avatar.png?w=512&h=512&imagetools';
 import SiteCover from '$assets/qwer.webp';
 
 export const siteConfig: Site.Config = {
-  url: 'https://svelte-qwer.vercel.app',
-  title: 'QWER',
-  subtitle: '🚀 QWER - Built using Svelte with ❤',
+  url: 'https://co-coblog.vercel.app/',
+  title: 'COCO',
+  subtitle: '🚀 COCO - computational ❤',
   description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
   lang: 'en',
   timeZone: 'Asia/Taipei',
   since: 2022,
   cover: SiteCover,
   author: {
-    name: 'John Doe',
+    name: 'Abhinav Patel',
     status: '🚀',
     statusTip:
-      '<a href="https://github.com/kwchang0831/svelte-QWER" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >QWER</a> is Awesome !',
+      '<a href="https://github.com/Abhinavpatel00/core-computations" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >QWER</a> is Awesome !',
     avatar: Avatar,
     avatar_128: Avatar_128,
     avatar_48_png: Avatar_48_PNG,
     avatar_96_png: Avatar_96_PNG,
     avatar_192_png: Avatar_192_PNG,
     avatar_512_png: Avatar_512_PNG,
-    website: 'https://github.com/kwchang0831/svelte-QWER',
-    github: 'https://github.com/kwchang0831',
-    email: 'contact@kwchang0831.dev',
-    bio: `Peace begins <br/> With a smile`,
+    website: 'https://co-coblog.vercel.app/',
+    github: 'https://github.com/Abhinavpatel00',
+    email: 'patelabhinav010@gmail.com',
+    bio: `Compassion <br/> my Dharma`,
   },
 };
 
 export const headConfig: Site.Head = {
   // Used for IndieWeb
-  me: ['https://github.com/kwchang0831'],
+  me: ['https://github.com/Abhinavpatel00'],
   custom: ({ dev }) =>
     dev
       ? [
@@ -113,12 +113,12 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
   },
   {
     name: 'See Docs 📄',
-    url: 'https://docs-svelte-qwer.vercel.app/',
+    url: 'https://abhinavpatel00.github.io/cocobook/',
     rel: 'external',
   },
   {
-    name: 'Get QWER 🚀',
-    url: 'https://github.com/kwchang0831/svelte-QWER',
+    name: 'Get COCO🚀',
+    url: 'https://github.com/Abhinavpatel00/CoCoblog',
     rel: 'external',
   },
 ];
@@ -136,8 +136,8 @@ export const mobilenavConfig: DD.Nav = {
       rel: 'external',
     },
     {
-      name: 'Get QWER 🚀',
-      url: 'https://github.com/kwchang0831/svelte-QWER',
+      name: 'Get COCO🚀',
+      url: 'https://github.com/Abhinavpatel00/CoCoblog',
       rel: 'external',
     },
   ],

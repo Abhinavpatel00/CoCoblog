@@ -8,7 +8,7 @@ const en: BaseTranslation = {
   LoadingPost: 'Loading Post...',
   NoPostFound: 'No Post Found.',
   LoadingGiscus: 'Loading Giscus...',
-  QWER: '🚀 QWER [α] - Built with SvelteKit and ❤',
+  COCO: '🚀 COCO [α] - Built with ❤',
   FirstPublishedAt: 'First published at',
   LastUpdatedAt: 'Last updated at',
   Updated: 'Updated: ',
