@@ -15,7 +15,7 @@ export const siteConfig: Site.Config = {
   url: 'https://co-coblog.vercel.app/',
   title: 'COCO',
   subtitle: '🚀 COCO - computational ❤',
-  description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
+  description: '🚀 COCO - Awesome Blog for sharing my learnings ❤',
   lang: 'en',
   timeZone: 'Asia/Taipei',
   since: 2022,
